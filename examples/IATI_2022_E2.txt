@@ -1,0 +1,10 @@
+FORMAT
+h m
+
+CONSTRAINTS
+h INT
+m INT
+h > 0
+h <= 12
+m >= 0
+m < 60

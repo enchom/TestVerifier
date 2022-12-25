@@ -1,0 +1,6 @@
+name: test-verifier
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.11
+  - antlr-python-runtime =4.11.1.pre-commit-config.yaml
